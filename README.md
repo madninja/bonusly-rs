@@ -2,7 +2,7 @@
 
 ## bonusly-rs
 
-This adds a convenient Rust wrapper around the [bonusly](https://bonus.ly) REST API
+This adds a convenient Rust wrapper around the [bonusly](https://bonus.ly) REST API.
 
 See the library documentation for usage details.
 
